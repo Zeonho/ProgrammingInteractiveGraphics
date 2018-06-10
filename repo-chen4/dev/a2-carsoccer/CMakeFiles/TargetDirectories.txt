@@ -1,0 +1,7 @@
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/install/local.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/install/strip.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/install.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/list_install_components.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/rebuild_cache.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/edit_cache.dir
+/Users/jinhaochen/Desktop/GitDesktop/SPRING2018/CSCI4611/repo-chen4566/dev/a2-carsoccer/CMakeFiles/a2-carsoccer.dir
